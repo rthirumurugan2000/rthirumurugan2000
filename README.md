@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thirumurugan R and I'm a  4th year computer science student at IIIT Guwahati. Here's some info about me!
+My name is Thirumurugan R, having 2yrs of Experience in Analytics Pod of Shipsy (AI based Supply Chain System) 
 
 🌱 Interests:
 - Data Analytics (AI/ML)
