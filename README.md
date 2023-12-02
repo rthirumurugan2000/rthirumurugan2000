@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is Thirumurugan R, having 2yrs of Experience in Analytics Pod of Shipsy (AI based Supply Chain System) 
+-> Thirumurugan R, here
+-> 2yrs + Experince in the Data Domain at Shipsy, An AI based Supply chain SaaS company)
 
 🌱 Interests:
 - Data Analytics (AI/ML)
+- Dashboarding and Story telling
 - App dev (React native)
 
-👯 I’m looking to collaborate on ML projects.
 
 💬 Reach me by email or LinkedIn! rthirumurugan2000@gmail.com | https://www.linkedin.com/in/thirutorrentz2000/
 
