@@ -6,7 +6,6 @@
 🌱 Interests:
 - Data Analytics (AI/ML)
 - Dashboarding and Story telling
-- App dev (React native)
 
 
 💬 Reach me by email or LinkedIn! rthirumurugan2000@gmail.com | https://www.linkedin.com/in/thirutorrentz2000/
