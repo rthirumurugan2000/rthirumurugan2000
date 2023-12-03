@@ -1,7 +1,7 @@
 ### Hi there 👋
 
--> Thirumurugan R, here
--> 2yrs + Experince in the Data Domain at Shipsy, An AI based Supply chain SaaS company)
+-> Thirumurugan R, here                                                                
+-> 2yrs + Experince in the Data Domain at Shipsy, (An AI based Supply chain SaaS company)
 
 🌱 Interests:
 - Data Analytics (AI/ML)
