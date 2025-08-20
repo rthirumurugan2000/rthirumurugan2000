@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -> Thirumurugan R, here                                                                
--> 2yrs + Experince in the Data Domain at Shipsy, (An AI based Supply chain SaaS company)
+-> Accomplished Analytics professional with 3.5 years of experience in leveraging Python, SQL, Tableau and A/B Testing
 
 🌱 Interests:
 - Data Analytics (AI/ML)
